@@ -1,3 +1,4 @@
-# Windows-Optimizer-1.1
-Updated with a friend
-A new UI (somewhat)
+# Windows-Optimizer-1.2
+New UI 
+Dark mode (it has a bug i'll fix it)
+If UI fail, it goes back to terminal!
